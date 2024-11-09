@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Angshul
+I'm Angshul and just learning languages
 
 ---
 
